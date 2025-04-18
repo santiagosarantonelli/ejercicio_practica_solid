@@ -1,1 +1,1 @@
-# ejercicio_practica_solid
+# Simple ejercicio sobre un "juego" en Python aplicando conceptos SOLID
